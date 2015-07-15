@@ -23,14 +23,14 @@
     <favorites_list name="eloquent_js" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.57348245">
+    <splitter split-orientation="horizontal" split-proportion="0.5024233">
       <split-first>
         <leaf>
           <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.37251654" vertical-offset="0" max-vertical-offset="1009">
-                  <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+                <state vertical-scroll-proportion="0.54635763" vertical-offset="105" max-vertical-offset="1054">
+                  <caret line="26" column="71" selection-start-line="26" selection-start-column="71" selection-end-line="26" selection-end-column="71" />
                   <folding />
                 </state>
               </provider>
@@ -39,14 +39,24 @@
         </leaf>
       </split-first>
       <split-second>
-        <splitter split-orientation="vertical" split-proportion="0.627789">
+        <splitter split-orientation="vertical" split-proportion="0.9">
           <split-first>
             <leaf>
-              <file leaf-file-name="ch1.js" pinned="false" current-in-tab="true">
-                <entry file="file://$PROJECT_DIR$/scripts/ch1.js">
+              <file leaf-file-name="ch2_program_structure.js" pinned="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/scripts/ch2_program_structure.js">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state vertical-scroll-proportion="0.5769231" vertical-offset="885" max-vertical-offset="1500">
-                      <caret line="76" column="23" selection-start-line="76" selection-start-column="23" selection-end-line="76" selection-end-column="23" />
+                    <state vertical-scroll-proportion="0.0" vertical-offset="1185" max-vertical-offset="2180">
+                      <caret line="110" column="3" selection-start-line="110" selection-start-column="3" selection-end-line="110" selection-end-column="3" />
+                      <folding />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file leaf-file-name="ch3_functions.js" pinned="false" current-in-tab="true">
+                <entry file="file://$PROJECT_DIR$/scripts/ch3_functions.js">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state vertical-scroll-proportion="0.39267015" vertical-offset="0" max-vertical-offset="798">
+                      <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
                       <folding />
                     </state>
                   </provider>
@@ -59,7 +69,7 @@
               <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/css/main.css">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="215">
+                    <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="32">
                       <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
                       <folding />
                     </state>
@@ -76,8 +86,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/css/main.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/scripts/ch1.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/scripts/ch2_program_structure.js" />
+        <option value="$PROJECT_DIR$/scripts/ch3_functions.js" />
       </list>
     </option>
   </component>
@@ -171,8 +183,11 @@
     <property name="options.lastSelected" value="editing.templates" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/index.html" />
+    <property name="restartRequiresConfirmation" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.Eloquent-JS debug">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
       <method />
     </configuration>
@@ -190,6 +205,10 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="ChromiumRemoteDebugType" factoryName="Chromium Remote">
+      <option name="name" value="" />
+      <method />
+    </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
@@ -205,7 +224,14 @@
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <method />
     </configuration>
-    <list size="0" />
+    <configuration default="false" name="Eloquent-JS debug" type="JavascriptDebugType" factoryName="JavaScript Debug" engineId="6d791250-7133-48f3-af98-2df8f37a1d04" uri="http://localhost:63343/eloquent_js/index.html">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.Eloquent-JS debug" />
+    </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
@@ -222,12 +248,12 @@
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32884902" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15033887" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15024233" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -273,16 +299,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.37251654" vertical-offset="0" max-vertical-offset="1009">
-          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        <state vertical-scroll-proportion="0.54635763" vertical-offset="105" max-vertical-offset="1054">
+          <caret line="26" column="71" selection-start-line="26" selection-start-column="71" selection-end-line="26" selection-end-column="71" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/ch1.js">
+    <entry file="file://$PROJECT_DIR$/scripts/ch2_program_structure.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5769231" vertical-offset="885" max-vertical-offset="1500">
-          <caret line="76" column="23" selection-start-line="76" selection-start-column="23" selection-end-line="76" selection-end-column="23" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="1185" max-vertical-offset="2180">
+          <caret line="110" column="3" selection-start-line="110" selection-start-column="3" selection-end-line="110" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/ch3_functions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39267015" vertical-offset="0" max-vertical-offset="798">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding />
         </state>
       </provider>

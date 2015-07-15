@@ -14,9 +14,10 @@
 
 /* while loop*/
 //var num = 0;
-//while(num <= 31){
+//while(num <= 7){
 //    console.log(num);
 //    num = num += 1;
+//
 //}
 
 //var result = 1;
@@ -38,9 +39,14 @@
 
 
 /* For loop */
+
+//names = ['Colin', 'Kevin', 'Brian', 'Raney'];
+//for (var i = 0; i < names.length; i++) {
+//    console.log(names[i]);
+//}
 //
-//for (var number = 0; number <= 12; number += 3) {
-//    console.log(number);
+//for (var num = 0; num < 10; num += 1) {
+//    console.log("the next number is: " + num);
 //}
 
 //var result = 1;
@@ -72,7 +78,34 @@
 //        break;
 //}
 
-for (var i = 0; i <= 6; i += 1) {
-    i = "#";
-    console.log(i += "#");
-}
+/* Print hashtag exercise */
+//
+//for (var hash = "#"; hash.length <= 7; hash += '#') {
+//    console.log(hash);
+//}
+
+
+/* Fizz-Buzz */
+//
+//for (var i = 1; i <= 100 ; i += 1) {
+//    if (i % 3 == 0 && i % 5 == 0)
+//        console.log("Fizz");
+//    if (i % 3 == 0)
+//        console.log("Buzz");
+//    if (i % 5 == 0)
+//        console.log("Buzz");
+//    else
+//        console.log(i);
+//
+//}
+//console.log(i);
+
+
+/* Checkerboard Exercise */
+//var num = 0;
+//while(num <= 3){
+//    console.log("#### ");
+//    console.log(" ####");
+//    num = num += 1;
+//
+//}
